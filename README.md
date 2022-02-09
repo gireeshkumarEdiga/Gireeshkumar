@@ -33,7 +33,7 @@ you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, No
 <h3 align="center">A passionate Full Stack Web Developer.<h3> 
 <h4 align="center">I am very passionate and enthusiastic about Coding and Web development. I am very interested to learn new things and trying to implement in reality.</h4>
 <ul>
-<li>🌱 I’m currently learning I’m currently learning Full Stack Web Development and Data Structures & Algorithms. <br/>
+<li>🌱 I’m currently learning Full Stack Web Development and Data Structures & Algorithms. <br/>
 <li>💬 Ask me about HTML, CSS, JavaScript, ExpressJS, NodeJS, MongoDB and ReactJS.
 </ul>
 
