@@ -61,10 +61,10 @@ you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, No
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/gowdgirishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gowdgirishkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gireeshkumar-ediga-4576521a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gireeshkumar-ediga-4576521a5/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/girishkumar.gowd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/girishkumar.gowd" height="30" width="40" /></a>
-<a href="https://www.instagram.com/girishkumar_gowd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/girishkumar_gowd/" height="30" width="40" /></a>
+<a href="gowdgirishkumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gowdgirishkumar" height="30" width="40" /></a>
+<a href="gireeshkumar-ediga-4576521a5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gireeshkumar-ediga-4576521a5/" height="30" width="40" /></a>
+<a href="girishkumar.gowd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/girishkumar.gowd" height="30" width="40" /></a>
+<a href="girishkumar_gowd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/girishkumar_gowd/" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gireeshkumarediga&show_icons=true&locale=en&layout=compact" alt="gireeshkumarediga" /></p>
