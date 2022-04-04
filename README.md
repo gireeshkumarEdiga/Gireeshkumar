@@ -68,5 +68,5 @@ you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, No
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gireeshkumarediga&show_icons=true&locale=en&layout=compact" alt="gireeshkumarediga" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gireeshkumarediga&show_icons=true&locale=en" alt="gireeshkumarediga" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gireeshkumarediga&" alt="gireeshkumarediga" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gireeshkumarediga&show_icons=true&locale=en" alt="gireeshkumarediga" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gireeshkumarediga&" alt="gireeshkumarediga" /></p> -->
